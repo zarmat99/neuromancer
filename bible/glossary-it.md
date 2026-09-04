@@ -1,4 +1,4 @@
-# Glossario italiano bloccato - v0.1
+# Glossario italiano bloccato - v0.2
 
 | Termine fonte | Forma nel fumetto | Nota |
 |---|---|---|
@@ -29,4 +29,3 @@
 - **Ratz:** sintassi leggermente formale, ironia centro-europea; chiama Case `artista`.
 - **Wage:** professionale, quasi offeso dalla paranoia di Case.
 - **Deane:** cortesia antiquata e opaca; chiama Case `ragazzo mio`.
-

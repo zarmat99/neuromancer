@@ -1,5 +1,6 @@
 {
-  "version": "0.1",
+  "version": "0.2",
+  "authority": "bible/ch01-production-bible.md",
   "source": {
     "file": "Neuromancer - William Gibson(1).pdf",
     "chapter": 1,
@@ -9,7 +10,11 @@
     "trim_mm": [170, 260],
     "bleed_mm": 3,
     "color": true,
-    "lettering_in_generated_art": false
+    "reading_direction": "western",
+    "lettering_in_generated_art": false,
+    "max_words_per_balloon": 16,
+    "target_words_per_balloon": [4, 12],
+    "max_lettering_area_ratio": 0.2
   },
   "style_lock": {
     "medium": "inked graphic novel with controlled painterly color",
@@ -23,7 +28,8 @@
       "build": "tall, very lean, narrow high shoulders",
       "face": "pale narrow angular face, defined cheekbones, hollow cheeks, tired gray-brown eyes",
       "hair": "short uneven very dark brown hair",
-      "outfit": "rain-stained khaki nylon windbreaker, dark shirt, faded black jeans, nylon running shoes"
+      "outfit": "rain-stained khaki nylon windbreaker, dark shirt, faded black jeans, nylon running shoes",
+      "injury_after_page": {"page": 10, "location": "left ankle"}
     },
     "CHAR_MOLLY_V1": {
       "age_range": "25-30",
@@ -46,7 +52,57 @@
       "face": "shaved sweaty head, steel-and-decay teeth",
       "outfit": "white shirt",
       "signature": "grubby pink seven-function Russian military prosthesis on right arm"
+    },
+    "CHAR_WAGE_V1": {
+      "age_range": "35-45",
+      "signature": "vat-grown sea-green eyes, gunmetal silk suit, platinum bracelet on each wrist"
+    },
+    "CHAR_DEANE_V1": {
+      "age": 135,
+      "signature": "seamless pink face, thin gold frames, faceted pink quartz lenses, early-20th-century tailoring"
+    },
+    "CHAR_ZONE_V1": {
+      "signature": "long placid face, drooping lids, extremely dilated pupils"
+    },
+    "CHAR_SHIN_V1": {
+      "signature": "young Japanese sushi waiter, restrained gestures, dark apron"
+    },
+    "CHAR_KURT_V1": {
+      "signature": "lean young Brazilian bartender, Smith & Wesson riot gun"
+    },
+    "CHAR_JOEBOYS_V1": {
+      "signature": "near-identical pair with grafted arm and shoulder muscle"
+    },
+    "CHAR_CLERK_V1": {
+      "signature": "Japanese teenager reading a textbook behind the C-shaped console"
     }
+  },
+  "environments": {
+    "LOC_COFFIN_92_V2": {
+      "layout_asset": "assets/environments/capsule-92-layout-v2.svg",
+      "interior_m": [3.0, 1.0, 1.45],
+      "hatch": "oval, near end, vertical lift",
+      "terminal": "left wall when looking toward far end",
+      "rules_panel": "right wall when looking toward far end",
+      "floor": "continuous brown temper-foam bed slab",
+      "camera_axis": "hatch center to far-end center"
+    }
+  },
+  "state_transitions": {
+    "PROP_COBRA_V1": {"acquired_page": 7, "collapsed_page": 10, "discarded_page": 11},
+    "PROP_PISTOL_V1": {"acquired_page": 11, "unloaded_page": 13, "returned_to_shin_page": 13, "present_page_14": false},
+    "PROP_FLASK_V1": {"introduced_page": 11, "given_to_wage_page": 13},
+    "PROP_HITACHI_V1": {"introduced_page": 11, "stolen_before_page": 14},
+    "PROP_FLETCHER_V1": {"aimed_panels": ["14.1", "14.2", "14.3"], "holstered_panel": "14.4"},
+    "PROP_BLADES_V1": {"extended_panel": "14.5", "blade_count": 10}
+  },
+  "page_14_blocking": {
+    "case_position_m_from_hatch": [0.0, 0.75],
+    "molly_position_m_from_hatch": 2.65,
+    "molly_pose_locked_panels": ["14.1", "14.2", "14.3"],
+    "source_for_first_three_panels": "same master shot or crops",
+    "cross_camera_axis": false,
+    "protected_features": ["faces", "mirrored lenses", "hands", "weapons", "hatch", "terminal"]
   },
   "page_count": 14,
   "finished_sample_pages": [1, 10, 14]

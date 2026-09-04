@@ -1,4 +1,7 @@
-# Bibbia narrativa - v0.1
+# Bibbia narrativa sintetica - v0.2
+
+Per cast completo, ambienti, geometrie, oggetti, voce e lettering del capitolo 1
+fa fede `bible/ch01-production-bible.md`.
 
 ## Fonte e perimetro
 
@@ -88,8 +91,10 @@ ha finalmente un progetto per lui".
 - Turpiloquio presente quando definisce tensione o classe sociale, mai aggiunto
   come decorazione.
 - Nessun monologo esplicativo più lungo di due balloon.
-- Massimo 32 parole per balloon; obiettivo 12-22.
+- Massimo 16 parole per balloon; obiettivo 4-12.
+- Si traduce l'intenzione, non la sintassi della frase inglese.
+- Una domanda operativa riceve risposta o reazione nella stessa sequenza.
+- Balloon e didascalie occupano aree sicure stabilite prima dell'illustrazione.
 - I termini del glossario restano identici in tutti i capitoli.
 - Le citazioni letterali sono ridotte al minimo; il testo è riscritto per il
   linguaggio sequenziale.
-

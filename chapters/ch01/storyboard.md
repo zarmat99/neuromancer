@@ -1,4 +1,4 @@
-# Capitolo 1 - storyboard editoriale
+# Capitolo 1 - storyboard editoriale — v0.2
 
 Lo storyboard definisce ritmo e geometria. Le lettere indicano le vignette in
 ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
@@ -127,15 +127,24 @@ ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
 - **B:** caricatore sul tavolo.
 - **C:** Wage nega, sincera irritazione.
 - **D:** fiasca sparisce nella giacca di Wage.
-- **E:** alba grigio-rosa su Ninsei.
+- **E:** alba grigio-rosa su Ninsei; inserto successivo della .22 restituita a
+  Shin con le cartucce. Case esce disarmato.
 - **F:** custode del Cheap Hotel conferma la visita di Linda.
 
 ## Tavola 14 - Molly
 
-- **Layout:** A orizzontale claustrofobica; B-C verticali; D splash inferiore.
-- **A:** Case apre la capsula 92, il posto della RAM è vuoto.
-- **B:** Molly al fondo, fletcher a due mani.
-- **C:** close-up delle lenti impiantate mentre si presenta.
-- **D:** entrambe le mani aperte, dieci lame fuori; il sorriso resta sopra il nero.
-- **Ritmo:** quattro colpi lenti; nessuna vignetta superflua.
-
+- **Pianta:** `LOC_COFFIN_92_V2`, 3,00 × 1,00 × 1,45 m. Asse unico dal portello
+  alla testata di fondo.
+- **Layout:** A orizzontale; B-C stretti derivati dallo stesso master shot; D
+  primo piano; E splash inferiore con fascia nera per il lettering.
+- **A:** Case apre la 92; Molly è seduta sulla testata di fondo e punta la
+  fletcher. `SAFE_A` sulla parete alta.
+- **B:** ritaglio su Case che chiude il fermo; Molly resta immobile alla stessa
+  distanza. `SAFE_B` nel gutter superiore.
+- **C:** ritaglio più stretto dello stesso master, terminale ancora tra i due;
+  chiarimento su Linda e Wage. `SAFE_C` sulla parete destra.
+- **D:** primo piano lungo lo stesso asse; Molly abbassa e ripone la fletcher,
+  senza cambiare posto. `SAFE_D` nel gutter laterale.
+- **E:** entrambe le mani aperte, dieci lame fuori; lenti e sorriso liberi. Le
+  battute stanno nella fascia nera sopra il ritratto, non sull'arte.
+- **Ritmo:** mira, verifica dell'arma, errore di Case, proposta, rivelazione.

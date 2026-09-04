@@ -1,7 +1,8 @@
-# Registro di continuità - Capitolo 1
+# Registro di continuità - Capitolo 1 — v0.2
 
-Questo documento prevale sui prompt e sulle singole tavole. Ogni revisione che
-modifica un elemento bloccato deve aggiornare prima la bibbia visiva.
+Questo documento prevale sui prompt e sulle singole tavole. Gli elementi sono
+definiti in `bible/ch01-production-bible.md`; ogni revisione che modifica un
+elemento bloccato deve aggiornare prima quella Bibbia.
 
 ## Cronologia
 
@@ -19,10 +20,10 @@ La storia occupa una sola notte di venerdì fino all'alba di sabato.
 | 8 | 00:25 | Chat/Ninsei | Case, Zone, Molly in coda | cobra nascosto sotto giacca | Case individua di nuovo la coda |
 | 9 | 00:35 | `LOC_ARCADE_V1` | Case, Molly fuori campo | cobra esteso | Case rompe finestra e prepara trappola |
 | 10 | 00:40 | cubicolo/vicolo | Case, Molly | cobra in mano | caduta: dolore alla caviglia sinistra; cobra poi gettato |
-| 11 | 01:10 | Shiga/Cheap Hotel 92 | Case | ha `PROP_PISTOL_V1`; seconda dex | Hitachi, ghiacciaia e fiasca verificati |
-| 12 | 03:50 | Capsula 92/Chat | Case, Ratz, Wage, Joeboy | pistola e fiasca nelle tasche | pistola puntata; Ratz interviene |
-| 13 | 04:00 | Chat/alba | Case, Ratz, Wage | Ratz scarica pistola | fiasca ceduta; debito chiuso; Case conserva pistola scarica e caricatore |
-| 14 | 05:00 | Cheap Hotel 92 | Case, Molly | Linda ha rubato Hitachi; Case zoppica | fletcher riposta; lame di Molly esposte e ritratte |
+| 11 | 01:10 | Shiga/`LOC_COFFIN_92_V2` | Case | ha `PROP_PISTOL_V1`; seconda dex | Hitachi, ghiacciaia e fiasca verificati |
+| 12 | 03:50 | Capsula 92/Chat | Case, Ratz, Kurt, Wage, Joeboy | pistola e fiasca in tasche separate | Wage arriva; arma ancora carica |
+| 13 | 04:00-04:50 | Chat/Shiga/alba | Case, Ratz, Kurt, Wage, Shin | Ratz scarica la pistola | fiasca ceduta; debito chiuso; .22 e cartucce restituite; Case disarmato |
+| 14 | 05:00 | `LOC_COFFIN_92_V2` | Case, Molly | Linda ha rubato Hitachi; Case zoppica e non ha armi | fletcher riposta; lame di Molly esposte e ritratte |
 
 ## Continuità dei danni e della recitazione
 
@@ -39,9 +40,31 @@ La storia occupa una sola notte di venerdì fino all'alba di sabato.
 - Case tiene spesso la mano destra sull'arma dentro la tasca; non è mancino
   stabilito, quindi le azioni a due mani sono preferibili quando possibile.
 - Il cobra è presente soltanto nelle tavole 7-10.
-- La pistola .22 compare soltanto dalle tavole 11-14; alla fine è scarica.
+- La pistola .22 compare soltanto nelle tavole 11-13. Dopo lo scontro Case la
+  restituisce a Shin e rivende le cartucce: nella tavola 14 è disarmato.
 - Molly impugna la fletcher con entrambe le mani all'inizio della tavola 14.
 - Le lame di Molly escono da tutte e dieci le dita; le unghie restano borgogna.
+
+## Continuità spaziale della capsula 92
+
+- Pianta obbligatoria: `assets/environments/capsule-92-layout-v2.svg`.
+- Ingombro interno: 3,00 × 1,00 × 1,45 m; nessun personaggio può stare in piedi.
+- Case resta presso il portello, entro 0,75 m dalla testata vicina.
+- Molly resta seduta contro la testata di fondo nelle vignette 14.1-14.3.
+- Terminale a sinistra e pannello regole a destra guardando verso Molly.
+- Le prime tre vignette della tavola 14 sono ritagli dello stesso master shot;
+  non cambiano scala, asse, distanza o lato dei personaggi.
+- La fletcher si abbassa soltanto nella 14.4 e viene riposta prima delle lame.
+
+## Continuità del dialogo
+
+- La domanda di Molly sulla pistola riceve subito la risposta: Case l'ha
+  restituita a Shin.
+- Linda non ha mandato Molly e Molly non lavora per Wage.
+- Case collega da solo i due fatti; la scena deve rendere evidente l'errore di
+  interpretazione senza un monologo esplicativo.
+- La battuta finale è «Sarà un difetto di fabbrica.»: tono asciutto e ironico,
+  non calco letterale dell'inglese.
 
 ## Checklist obbligatoria per ogni immagine
 
@@ -51,6 +74,8 @@ La storia occupa una sola notte di venerdì fino all'alba di sabato.
 - [ ] Oggetti posseduti compatibili con la tabella.
 - [ ] Ferite, sudore, dose di dex e zoppia corretti.
 - [ ] Direzione dello sguardo e asse d'azione leggibili.
+- [ ] Pianta e scala dell'ambiente coerenti con la vignetta precedente.
+- [ ] Aree `SAFE_*` libere da volti, mani, armi e landmark.
+- [ ] Ogni domanda operativa ha una risposta o una reazione chiara.
 - [ ] Nessun testo generato nell'illustrazione.
 - [ ] Nessun elemento di capitoli successivi.
-

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <defs>
+    <style>
+      .bg{fill:#11171a}.panel{fill:#e7e2d4;stroke:#152126;stroke-width:8}
+      .shell{fill:#f4f0e4;stroke:#26363c;stroke-width:10}.foam{fill:#85664f;stroke:#3e3027;stroke-width:6}
+      .fixture{fill:#cdd5d2;stroke:#33464c;stroke-width:6}.molly{fill:#181c20;stroke:#b52150;stroke-width:7}
+      .case{fill:#8b805d;stroke:#1a6d74;stroke-width:7}.axis{stroke:#19aeb6;stroke-width:4;stroke-dasharray:18 14}
+      .dim{stroke:#eef1e6;stroke-width:3;marker-start:url(#arr);marker-end:url(#arr)}
+      .txt{font-family:DejaVu Sans,sans-serif;fill:#10181b;font-size:28px}.head{font-family:DejaVu Sans,sans-serif;fill:#eef1e6;font-size:36px;font-weight:bold}
+      .label{font-family:DejaVu Sans,sans-serif;fill:#eef1e6;font-size:25px}.small{font-family:DejaVu Sans,sans-serif;fill:#10181b;font-size:22px}
+      .safe{fill:#31bfc0;fill-opacity:.16;stroke:#138b91;stroke-width:4;stroke-dasharray:12 9}
+    </style>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#eef1e6"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="1100"/>
+  <text class="head" x="70" y="65">LOC_COFFIN_92_V2 — GEOMETRIA BLOCCATA</text>
+
+  <rect class="panel" x="55" y="105" width="1490" height="410" rx="18"/>
+  <text class="txt" x="90" y="150" font-weight="bold">PIANTA — vista dall'alto</text>
+  <path class="shell" d="M170 215 Q125 310 170 405 L1390 405 Q1445 310 1390 215 Z"/>
+  <rect class="foam" x="190" y="245" width="1180" height="130" rx="60"/>
+  <path class="fixture" d="M365 215 H625 V270 H365 Z"/>
+  <text class="small" x="420" y="252">terminale</text>
+  <path class="fixture" d="M365 350 H625 V405 H365 Z"/>
+  <text class="small" x="423" y="388">regole</text>
+  <rect class="fixture" x="235" y="300" width="125" height="75" rx="12"/>
+  <text class="small" x="244" y="345">cooler</text>
+  <ellipse class="case" cx="245" cy="310" rx="72" ry="52"/>
+  <text class="small" x="207" y="319">CASE</text>
+  <ellipse class="molly" cx="1285" cy="310" rx="82" ry="58"/>
+  <text class="small" x="1242" y="319" fill="#fff">MOLLY</text>
+  <line class="axis" x1="145" y1="310" x2="1420" y2="310"/>
+  <path d="M155 230 Q105 310 155 390" fill="none" stroke="#b52150" stroke-width="13"/>
+  <text class="small" x="92" y="440">portello</text>
+  <line class="dim" x1="160" y1="470" x2="1400" y2="470"/>
+  <text class="label" x="735" y="500">3,00 m</text>
+  <line class="dim" x1="1470" y1="215" x2="1470" y2="405"/>
+  <text class="label" x="1428" y="320" transform="rotate(-90 1428 320)">1,00 m max</text>
+
+  <rect class="panel" x="55" y="550" width="1490" height="465" rx="18"/>
+  <text class="txt" x="90" y="595" font-weight="bold">SEZIONE LONGITUDINALE — asse portello → fondo</text>
+  <path class="shell" d="M165 900 Q125 785 175 675 Q205 635 265 625 H1360 Q1425 650 1435 770 Q1425 890 1360 915 H265 Q205 915 165 900 Z"/>
+  <rect class="foam" x="190" y="840" width="1215" height="62" rx="25"/>
+  <rect class="fixture" x="390" y="680" width="260" height="110" rx="16"/>
+  <text class="small" x="470" y="742">terminale</text>
+  <path class="case" d="M190 835 Q220 700 320 715 Q385 755 345 850 Z"/>
+  <text class="small" x="232" y="790">CASE</text>
+  <path class="molly" d="M1220 845 Q1190 750 1240 690 Q1310 650 1365 730 L1388 850 Z"/>
+  <text class="small" x="1252" y="785" fill="#fff">MOLLY</text>
+  <rect class="safe" x="700" y="645" width="420" height="120" rx="16"/>
+  <text class="small" x="795" y="715">SAFE LETTERING</text>
+  <line class="axis" x1="145" y1="780" x2="1430" y2="780"/>
+  <line class="dim" x1="1490" y1="625" x2="1490" y2="905"/>
+  <text class="label" x="1450" y="820" transform="rotate(-90 1450 820)">1,45 m max</text>
+  <text class="label" x="95" y="970">Molly resta sulla testata di fondo nelle vignette 14.1–14.3.</text>
+  <text class="label" x="835" y="970">Camera sempre sullo stesso lato dell'asse.</text>
+</svg>

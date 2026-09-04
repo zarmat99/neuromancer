@@ -1,4 +1,8 @@
-# Bibbia visiva - v0.1
+# Bibbia visiva sintetica - v0.2
+
+La Bibbia completa e autoritativa del capitolo 1 è
+`bible/ch01-production-bible.md`. Questo file resta come scheda rapida dei lock
+principali usati dai prompt.
 
 ## Direzione artistica bloccata
 
@@ -130,12 +134,18 @@ corridoio di moquette macchiata. Cubicoli economici, porte blu laccate, finestra
 in plastica sul vicolo. Nel vicolo: fibre ottiche scartate, console rotta,
 cartone fradicio e luce da sportello di servizio.
 
-### `LOC_CHEAP_V1` - Cheap Hotel / capsula 92
+### `LOC_CHEAP_V1` - Cheap Hotel
 
 Edificio di mattoni gialli con ascensore esterno in gabbia trasparente. Sul tetto,
 cortile di prato plastico, console a C e sessanta capsule bianche in vetroresina,
-sei livelli per dieci. Capsula 92: interno ovale di tre metri, schiuma marrone,
-terminale Hitachi rosa/bianco, luce fluorescente fredda, nessuna finestra.
+sei livelli per dieci.
+
+### `LOC_COFFIN_92_V2` - Capsula 92
+
+Interno ovale 3,00 × 1,00 × 1,45 m, schiuma marrone su tutto il pavimento,
+terminale e telefono modellati nella parete sinistra, regole sulla destra, luce
+fluorescente fredda, nessuna finestra. Pianta vincolante:
+`assets/environments/capsule-92-layout-v2.svg`.
 
 ## Oggetti bloccati
 
@@ -144,7 +154,7 @@ terminale Hitachi rosa/bianco, luce fluorescente fredda, nessuna finestra.
 | `PROP_DEX_V1` | pillola ottagonale piatta, rosa | Case ne assume una al Jarre e una dopo la fuga |
 | `PROP_SHURIKEN_V1` | stelle cromate su velluto rosso | solo vetrina/simbolo; Case non le compra |
 | `PROP_COBRA_V1` | tubo d'acciaio opaco, laccio, punta piramidale in bronzo; tre segmenti a molla | comprato p. 8, esteso p. 10, gettato prima della pistola |
-| `PROP_PISTOL_V1` | imitazione PPK cal. .22, guance rosse con drago | no prima di p. 11; scaricata da Ratz p. 13 |
+| `PROP_PISTOL_V1` | imitazione PPK cal. .22, guance rosse con drago | p. 11-13; scaricata da Ratz e restituita a Shin prima di p. 14 |
 | `PROP_HITACHI_V1` | computer tascabile standard, grigio chiaro | presente in capsula p. 11; rubato da Linda prima di p. 14 |
 | `PROP_FLASK_V1` | fiasca da laboratorio in alluminio filato | nella ghiacciaia; ceduta a Wage p. 13 |
 | `PROP_FLETCHER_V1` | pistola compatta nera, canna pepperbox | nelle mani di Molly p. 14, poi nella giacca |
@@ -156,7 +166,9 @@ terminale Hitachi rosa/bianco, luce fluorescente fredda, nessuna finestra.
 - Linda con outfit diverso nella scena del Jarre e nel ricordo immediato.
 - Ratz con una protesi cromata moderna o sul braccio sinistro.
 - Capsula 92 grande come una stanza.
+- Molly che cambia posizione nelle prime tre vignette della tavola 14.
+- Case ancora armato quando entra nella capsula alla tavola 14.
+- Balloon su volti, lenti, mani, armi, portelli o oggetti scambiati.
 - Neon puliti, città vuota o tecnologia immacolata.
 - Testo pseudo-giapponese leggibile come elemento narrativo.
 - Armi aggiuntive o oggetti che anticipano capitoli successivi.
-

@@ -1,4 +1,4 @@
-# Prompt visivi bloccati - pilota capitolo 1
+# Prompt visivi bloccati - pilota capitolo 1 — v0.2
 
 Questi prompt vanno usati insieme alle reference approvate. Ogni generazione
 successiva deve ripetere gli invarianti di identità e outfit.
@@ -107,19 +107,25 @@ windbreaker and cobra, no .22 pistol; Molly appears only as head/silhouette in
 final panel; no text or balloons
 ```
 
-## Tavola campione 14
+## Tavola campione 14 — metodo v0.2
 
 ```text
-Primary request: finished four-panel portrait comic page following storyboard
-page 14 inside the cramped white fiberglass capsule 92; Case discovers the empty
-computer space; Molly sits at the far end aiming a compact pepperbox flechette
-pistol; close-up of seamless silver lenses; final dominant panel of Molly holding
-both open hands with ten burgundy-nailed retractable blades extended
-Input images: Case reference, Molly reference and Cheap Hotel reference
-Composition/framing: one claustrophobic horizontal panel, two vertical panels,
-one large lower reveal; strong readable silhouettes
-Constraints: preserve CHAR_CASE_V1, CHAR_MOLLY_V1 and LOC_CHEAP_V1 exactly;
-Molly's lenses have no arms and show no eyes; adult non-sexualized presentation;
-Case has no usable gun in hand; no text or balloons
-```
+Do not generate the finished page as one image. First create one spatial master
+shot using CHAR_CASE_V1, CHAR_MOLLY_V1 and the dimensional drawing
+assets/environments/capsule-92-layout-v2.svg.
 
+LOC_COFFIN_92_V2 is exactly 3.00 m long, 1.00 m maximum width and 1.45 m maximum
+height. Case remains within 0.75 m of the near hatch. Molly remains seated against
+the far end at x=2.65 m in panels 14.1-14.3. Terminal is on the left wall looking
+in; rules panel on the right; brown foam spans the floor. Never cross the
+longitudinal axis.
+
+Panels 14.1-14.3 must be crops of the same master shot, not independent
+generations. Generate only the later holstering beat separately, using the master
+as reference. Composite the page deterministically and reserve dedicated black
+lettering bands before adding Italian balloons.
+
+Constraints: surgically inset lenses without arms and no visible eyes; exactly
+one fletcher until it is holstered; Case has no weapon; ten blades only in the
+final panel; no text or balloons inside generated art.
+```
