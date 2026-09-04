@@ -3,10 +3,10 @@
 Questo repository contiene la lavorazione dell'adattamento italiano a fumetti di
 *Neuromancer*. La fonte canonica è `Neuromancer - William Gibson(1).pdf`.
 
-## Pilota: capitolo 1
+## Capitolo 1 completo
 
-Il primo pilota adatta il capitolo 1 (pagine PDF 3-29) in 14 tavole. La revisione
-0.2 comprende:
+La versione 1.0 adatta il capitolo 1 (pagine PDF 3-29) in 14 tavole finite. Il
+pacchetto comprende:
 
 - Bibbia incrementale completa del capitolo 1: cast visibile, voci, luoghi,
   oggetti, cronologia, geometrie e lettering;
@@ -14,8 +14,13 @@ Il primo pilota adatta il capitolo 1 (pagine PDF 3-29) in 14 tavole. La revision
 - reference degli ambienti primari, secondari e di flashback;
 - registro di continuità pagina per pagina;
 - scaletta, sceneggiatura tecnica e storyboard;
-- tre tavole campione finite: apertura, fuga dall'arcade e incontro con Molly;
-- dossier PDF del pilota.
+- quattordici tavole illustrate e letterate in italiano;
+- tavola 14 ricostruita in sei vignette dallo stesso master spaziale;
+- PDF solo-fumetto con copertina e 14 tavole:
+  `editions/neuromante-capitolo-01-completo.pdf`.
+
+Il precedente dossier pilota resta come archivio di produzione; non è incluso
+nel PDF del fumetto completo.
 
 La Bibbia cresce capitolo per capitolo: i nomi soltanto citati non ricevono un
 volto finché la storia non li mostra.

@@ -1,6 +1,6 @@
 # Bibbia di produzione incrementale — Capitolo 1
 
-Versione 0.2. Questo documento è l'autorità creativa e tecnica per il capitolo
+Versione 1.0. Questo documento è l'autorità creativa e tecnica per il capitolo
 1. In caso di conflitto prevale su prompt, storyboard e tavole. Il registro di
 continuità conserva invece lo stato minuto per minuto.
 
@@ -341,7 +341,8 @@ domanda di Molly serve a verificare questo stato e Case deve rispondere.
   portello o landmark che orienta lo spazio.
 - Massimo due balloon per personaggio nella stessa vignetta; se il botta e
   risposta non entra, si aggiunge una vignetta.
-- Target: testo e balloon sotto il 20% dell'area di ogni vignetta.
+- Target: testo e balloon sotto il 20% dell'area di ogni vignetta; le scene con
+  dialogo serrato usano una fascia nera progettata prima dell'arte.
 - Balloon piccoli, con coda chiara; didascalie rettangolari. Vietati grandi box
   flottanti senza indicazione del parlante.
 - Ordine di lettura occidentale, dall'alto a sinistra verso il basso a destra.
@@ -352,11 +353,12 @@ domanda di Molly serve a verificare questo stato e Case deve rispondere.
 
 | Vignetta | Protetto | Area testo ammessa |
 |---|---|---|
-| 14.1 | sagome intere, portello, terminale, fletcher | fascia di parete alta |
-| 14.2 | mani di Case sul fermo, mira di Molly | gutter superiore dedicato |
-| 14.3 | lenti, bocca della fletcher, distanza tra i due | parete destra vuota |
-| 14.4 | mano che ripone l'arma, volto di Molly | gutter laterale |
-| 14.5 | tutte e dieci le lame, lenti, sorriso | fascia nera sopra il ritratto |
+| 14.1 | asse completo, portello, terminale, fletcher | fascia nera superiore |
+| 14.2 | posizione di Case e mira di Molly | fascia nera superiore |
+| 14.3 | lenti, fletcher, distanza tra i due | fascia nera superiore |
+| 14.4 | entrambi sullo stesso asse | fascia nera superiore ampliata |
+| 14.5 | mano che ripone l'arma, volto di Molly | fascia nera superiore |
+| 14.6 | tutte e dieci le lame, lenti, bocca | fascia nera sopra il ritratto |
 
 ## Errori vietati
 

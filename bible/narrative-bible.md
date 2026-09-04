@@ -1,4 +1,4 @@
-# Bibbia narrativa sintetica - v0.2
+# Bibbia narrativa sintetica - v1.0
 
 Per cast completo, ambienti, geometrie, oggetti, voce e lettering del capitolo 1
 fa fede `bible/ch01-production-bible.md`.

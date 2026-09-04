@@ -1,6 +1,6 @@
 # Indice delle reference visive — Capitolo 1
 
-Versione 0.2. L'ordine indicato qui sostituisce etichette generate dentro le
+Versione 1.0. L'ordine indicato qui sostituisce etichette generate dentro le
 immagini, che non vengono mai affidate al modello visivo.
 
 ## Personaggi

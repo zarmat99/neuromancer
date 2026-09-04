@@ -1,4 +1,4 @@
-# Capitolo 1 - storyboard editoriale — v0.2
+# Capitolo 1 - storyboard editoriale — v1.0
 
 Lo storyboard definisce ritmo e geometria. Le lettere indicano le vignette in
 ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
@@ -135,16 +135,17 @@ ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
 
 - **Pianta:** `LOC_COFFIN_92_V2`, 3,00 × 1,00 × 1,45 m. Asse unico dal portello
   alla testata di fondo.
-- **Layout:** A orizzontale; B-C stretti derivati dallo stesso master shot; D
-  primo piano; E splash inferiore con fascia nera per il lettering.
+- **Layout:** sei fasce orizzontali A-F. A-D sono ritagli dello stesso master;
+  ogni vignetta dispone di una fascia nera superiore per il lettering.
 - **A:** Case apre la 92; Molly è seduta sulla testata di fondo e punta la
   fletcher. `SAFE_A` sulla parete alta.
 - **B:** ritaglio su Case che chiude il fermo; Molly resta immobile alla stessa
   distanza. `SAFE_B` nel gutter superiore.
-- **C:** ritaglio più stretto dello stesso master, terminale ancora tra i due;
-  chiarimento su Linda e Wage. `SAFE_C` sulla parete destra.
-- **D:** primo piano lungo lo stesso asse; Molly abbassa e ripone la fletcher,
-  senza cambiare posto. `SAFE_D` nel gutter laterale.
-- **E:** entrambe le mani aperte, dieci lame fuori; lenti e sorriso liberi. Le
+- **C:** terzo ritaglio dello stesso master; Molly segnala il furto e Case
+  chiarisce che la .22 è tornata a Shin.
+- **D:** quarto ritaglio dello stesso master; Molly resta al fondo e tiene la
+  fletcher puntata durante il chiarimento su Linda e Wage.
+- **E:** stesso ambiente e stessa testata; Molly abbassa e ripone la fletcher.
+- **F:** entrambe le mani aperte, dieci lame fuori; lenti e bocca libere. Le
   battute stanno nella fascia nera sopra il ritratto, non sull'arte.
 - **Ritmo:** mira, verifica dell'arma, errore di Case, proposta, rivelazione.

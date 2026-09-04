@@ -1,4 +1,4 @@
-# Glossario italiano bloccato - v0.2
+# Glossario italiano bloccato - v1.0
 
 | Termine fonte | Forma nel fumetto | Nota |
 |---|---|---|

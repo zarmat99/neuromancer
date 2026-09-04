@@ -4,8 +4,8 @@
 
 - Lunghezza: 14 tavole.
 - Densità media: 5-6 vignette per tavola.
-- Totale: 77 vignette.
-- Tavole campione finite: 1, 10 e 14.
+- Totale: 79 unità narrative.
+- Tavole finite: 14 su 14, lettering italiano versione 1.0.
 - Arco cromatico: ambra sporca -> rosso neon -> ciano/bianco arcade -> verde
   fluorescente -> nero e argento.
 
@@ -25,8 +25,8 @@
 | 10 | 6 | Passi di Molly, paura, fuga dalla finestra, caduta, volto argentato al riquadro | La sconosciuta dice una sola imprecazione |
 | 11 | 5 | Pistola da Shin, seconda dex, Cheap Hotel, inventario della capsula | Nessun compratore risponde |
 | 12 | 5 | Telefonata fallita, ritorno al Chat, Ratz e Kurt in allerta, Wage entra | Wage riempie la porta con i Joeboy |
-| 13 | 6 | Ratz disarma Case, Wage nega, fiasca ceduta, alba, .22 restituita a Shin | Il custode conferma la visita di una donna |
-| 14 | 5 | Master spaziale fisso, verifica dell'arma, errore su Linda, offerta, lame | Sorriso di Molly e nero |
+| 13 | 7 | Ratz disarma Case, Wage nega, fiasca ceduta, alba, .22 restituita a Shin | Il custode conferma la visita di una donna |
+| 14 | 6 | Master spaziale fisso, verifica dell'arma, errore su Linda, offerta, lame | Sorriso di Molly e nero |
 
 ## Cosa viene compresso
 

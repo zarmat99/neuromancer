@@ -1,6 +1,6 @@
 # Pass dialoghi italiani — Capitolo 1
 
-Versione 0.2. Questo documento registra l'intenzione e il sottotesto del
+Versione 1.0. Questo documento registra l'intenzione e il sottotesto del
 lettering definitivo in `chapters/ch01/script.md`. Serve a impedire che revisioni
 successive tornino a una traduzione letterale.
 
@@ -19,7 +19,7 @@ vengono ricreati in italiano.
 
 ## Trappole eliminate
 
-| Tipo | Effetto indesiderato | Soluzione v0.2 |
+| Tipo | Effetto indesiderato | Soluzione v1.0 |
 |---|---|---|
 | calco sintattico | battute corrette ma “doppiate” | soggetto implicito, verbi diretti, meno subordinate |
 | slang parola per parola | personaggi americani che parlano un italiano finto | relazione e tono al posto di “man/buddy/sweetheart” |
@@ -48,8 +48,8 @@ senza cambiare tono.
 
 - Registro: preciso, non militare.
 - Niente formule da femme fatale o minacce decorate.
-- La battuta finale diventa «Sarà un difetto di fabbrica.»: conserva l'ironia
-  cibernetica, ma suona come una frase pronunciabile in italiano.
+- Le minacce restano operative e asciutte: niente battute ornamentali aggiunte
+  al testo soltanto per creare un effetto da trailer.
 
 ### Linda
 
@@ -118,16 +118,16 @@ lievemente fuori moda ma sintatticamente naturali.
 
 Lo scambio deve essere comprensibile anche senza didascalie:
 
-1. Molly verifica se Case è armato.
-2. Case risponde che la pistola è tornata a Shin.
-3. Case identifica Molly come la donna dell'arcade.
-4. Molly chiede perché si sia buttato.
-5. Case cita l'avvertimento di Linda su Wage.
-6. Molly chiarisce di aver visto Linda soltanto nella capsula e segnala il furto.
-7. Case verifica l'affiliazione; Molly nega di lavorare per Wage.
+1. Molly verifica se Case è armato; Case la identifica come la donna dell'arcade.
+2. Case chiede di Linda; Molly gli fa prima bloccare il portello.
+3. Molly segnala il furto dell'Hitachi e ripete la domanda sull'arma.
+4. Case chiarisce di avere restituito la pistola a Shin.
+5. Molly chiede perché si sia buttato; Case cita l'avvertimento di Linda.
+6. Molly chiarisce di non avere mai visto Linda prima della capsula.
+7. Case verifica l'affiliazione a Wage; Molly la esclude.
 8. Molly si presenta e comunica l'offerta del proprio mandante.
 9. Solo allora abbassa e ripone la fletcher.
-10. Le lame danno peso fisico all'ultimo avvertimento ironico.
+10. Le lame danno peso fisico all'ultimo avvertimento.
 
 ## Controllo prima del lettering
 
@@ -135,6 +135,7 @@ Lo scambio deve essere comprensibile anche senza didascalie:
 - Leggere soltanto le battute di un personaggio: la voce rimane riconoscibile?
 - Pronunciare le frasi a velocità normale: richiedono un secondo respiro?
 - Eliminare ciò che il disegno comunica già.
-- Se un balloon supera 16 parole, riscrivere o aggiungere una vignetta.
+- Oltre 16 parole, usare una fascia dedicata oppure riscrivere; mai invadere il
+  punto focale dell'immagine.
 - Se una battuta richiede di coprire un volto, una mano o un'arma, cambiare la
   regia prima di ridurre il corpo del testo.

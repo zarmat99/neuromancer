@@ -1,4 +1,4 @@
-# Registro di continuità - Capitolo 1 — v0.2
+# Registro di continuità - Capitolo 1 — v1.0
 
 Questo documento prevale sui prompt e sulle singole tavole. Gli elementi sono
 definiti in `bible/ch01-production-bible.md`; ogni revisione che modifica un
@@ -23,7 +23,7 @@ La storia occupa una sola notte di venerdì fino all'alba di sabato.
 | 11 | 01:10 | Shiga/`LOC_COFFIN_92_V2` | Case | ha `PROP_PISTOL_V1`; seconda dex | Hitachi, ghiacciaia e fiasca verificati |
 | 12 | 03:50 | Capsula 92/Chat | Case, Ratz, Kurt, Wage, Joeboy | pistola e fiasca in tasche separate | Wage arriva; arma ancora carica |
 | 13 | 04:00-04:50 | Chat/Shiga/alba | Case, Ratz, Kurt, Wage, Shin | Ratz scarica la pistola | fiasca ceduta; debito chiuso; .22 e cartucce restituite; Case disarmato |
-| 14 | 05:00 | `LOC_COFFIN_92_V2` | Case, Molly | Linda ha rubato Hitachi; Case zoppica e non ha armi | fletcher riposta; lame di Molly esposte e ritratte |
+| 14 | 05:00 | `LOC_COFFIN_92_V2` | Case, Molly | Linda ha rubato Hitachi; Case zoppica e non ha armi | fletcher riposta; lame di Molly esposte |
 
 ## Continuità dei danni e della recitazione
 
@@ -52,19 +52,20 @@ La storia occupa una sola notte di venerdì fino all'alba di sabato.
 - Case resta presso il portello, entro 0,75 m dalla testata vicina.
 - Molly resta seduta contro la testata di fondo nelle vignette 14.1-14.3.
 - Terminale a sinistra e pannello regole a destra guardando verso Molly.
-- Le prime tre vignette della tavola 14 sono ritagli dello stesso master shot;
+- Le prime quattro vignette della tavola 14 sono ritagli dello stesso master shot;
   non cambiano scala, asse, distanza o lato dei personaggi.
-- La fletcher si abbassa soltanto nella 14.4 e viene riposta prima delle lame.
+- La fletcher resta puntata fino alla 14.4 e viene riposta nella 14.5, prima
+  delle lame.
 
 ## Continuità del dialogo
 
-- La domanda di Molly sulla pistola riceve subito la risposta: Case l'ha
-  restituita a Shin.
+- La domanda di Molly sulla pistola riceve risposta dopo che Case ha bloccato il
+  portello: l'ha restituita a Shin.
 - Linda non ha mandato Molly e Molly non lavora per Wage.
 - Case collega da solo i due fatti; la scena deve rendere evidente l'errore di
   interpretazione senza un monologo esplicativo.
-- La battuta finale è «Sarà un difetto di fabbrica.»: tono asciutto e ironico,
-  non calco letterale dell'inglese.
+- L'ultimo avvertimento è concreto e asciutto; non vengono aggiunte battute
+  generiche da film d'azione.
 
 ## Checklist obbligatoria per ogni immagine
 

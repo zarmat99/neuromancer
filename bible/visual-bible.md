@@ -1,4 +1,4 @@
-# Bibbia visiva sintetica - v0.2
+# Bibbia visiva sintetica - v1.0
 
 La Bibbia completa e autoritativa del capitolo 1 è
 `bible/ch01-production-bible.md`. Questo file resta come scheda rapida dei lock
@@ -166,7 +166,7 @@ fluorescente fredda, nessuna finestra. Pianta vincolante:
 - Linda con outfit diverso nella scena del Jarre e nel ricordo immediato.
 - Ratz con una protesi cromata moderna o sul braccio sinistro.
 - Capsula 92 grande come una stanza.
-- Molly che cambia posizione nelle prime tre vignette della tavola 14.
+- Molly che cambia posizione nelle prime quattro vignette della tavola 14.
 - Case ancora armato quando entra nella capsula alla tavola 14.
 - Balloon su volti, lenti, mani, armi, portelli o oggetti scambiati.
 - Neon puliti, città vuota o tecnologia immacolata.

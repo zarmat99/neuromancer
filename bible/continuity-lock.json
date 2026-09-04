@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
+  "version": "1.0",
   "authority": "bible/ch01-production-bible.md",
   "source": {
     "file": "Neuromancer - William Gibson(1).pdf",
@@ -12,7 +12,7 @@
     "color": true,
     "reading_direction": "western",
     "lettering_in_generated_art": false,
-    "max_words_per_balloon": 16,
+    "max_words_per_balloon": 28,
     "target_words_per_balloon": [4, 12],
     "max_lettering_area_ratio": 0.2
   },
