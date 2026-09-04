@@ -1,0 +1,53 @@
+{
+  "version": "0.1",
+  "source": {
+    "file": "Neuromancer - William Gibson(1).pdf",
+    "chapter": 1,
+    "pdf_pages": [3, 29]
+  },
+  "format": {
+    "trim_mm": [170, 260],
+    "bleed_mm": 3,
+    "color": true,
+    "lettering_in_generated_art": false
+  },
+  "style_lock": {
+    "medium": "inked graphic novel with controlled painterly color",
+    "mood": "retro-future industrial cyberpunk noir",
+    "physical_world_palette": ["charcoal", "dirty olive", "television gray", "neon red", "electric cyan"],
+    "matrix_palette": ["near black", "cobalt", "magenta", "logic white"]
+  },
+  "characters": {
+    "CHAR_CASE_V1": {
+      "age": 24,
+      "build": "tall, very lean, narrow high shoulders",
+      "face": "pale narrow angular face, defined cheekbones, hollow cheeks, tired gray-brown eyes",
+      "hair": "short uneven very dark brown hair",
+      "outfit": "rain-stained khaki nylon windbreaker, dark shirt, faded black jeans, nylon running shoes"
+    },
+    "CHAR_MOLLY_V1": {
+      "age_range": "25-30",
+      "build": "slender athletic",
+      "face": "pale oval-angular face, high cheekbones, controlled mouth",
+      "hair": "short rough black shag",
+      "signature": "surgically inset silver mirrored lenses without arms",
+      "outfit": "bulky matte-black jacket, tight black glove-leather jeans, black boots",
+      "hands": "burgundy artificial nails, ten retractable four-centimeter double-edged blades"
+    },
+    "CHAR_LINDA_V1": {
+      "age": 20,
+      "build": "small, tense",
+      "face": "gray eyes, smudged black makeup, pale unhealthy under-eyes",
+      "hair": "dark hair tied with printed silk circuit-map headband",
+      "outfit": "faded blue sleeveless French orbital fatigues, new white sneakers"
+    },
+    "CHAR_RATZ_V1": {
+      "build": "very large, 120 kg, doughy",
+      "face": "shaved sweaty head, steel-and-decay teeth",
+      "outfit": "white shirt",
+      "signature": "grubby pink seven-function Russian military prosthesis on right arm"
+    }
+  },
+  "page_count": 14,
+  "finished_sample_pages": [1, 10, 14]
+}
