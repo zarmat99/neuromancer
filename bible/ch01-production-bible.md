@@ -1,6 +1,6 @@
 # Bibbia di produzione incrementale — Capitolo 1
 
-Versione 1.0. Questo documento è l'autorità creativa e tecnica per il capitolo
+Versione 2.0. Questo documento è l'autorità creativa e tecnica per il capitolo
 1. In caso di conflitto prevale su prompt, storyboard e tavole. Il registro di
 continuità conserva invece lo stato minuto per minuto.
 
@@ -301,8 +301,11 @@ La geometria esecutiva è in `assets/environments/capsule-92-layout-v2.svg`.
   ginocchia alzate, talloni nella schiuma; la fletcher poggia sopra i polsi.
 - Asse principale: centro del portello → centro della parete di fondo. Non si
   oltrepassa l'asse e non si usa un grandangolo che trasformi la capsula in stanza.
-- Tavola 14, vignette 1-3: posizione di Molly invariata. Sono ammessi soltanto
-  ritagli dello stesso master shot o un avvicinamento lungo l'asse.
+- Tavola 14: posizione di Molly e ingombro della capsula invariati. I campi
+  derivano da `capsule-92-scene-master-v2.png`; la chiusura del fermo usa
+  `capsule-92-latch-v3.png`, generata sullo stesso asse e con gli stessi
+  landmark. Le viste preparatorie della tavola 11 usano
+  `capsule-92-case-alone-v3.png` e `capsule-92-phone-v3.png`.
 
 ### Luoghi soltanto nominati
 
@@ -335,19 +338,17 @@ domanda di Molly serve a verificare questo stato e Case deve rispondere.
 
 ## Lettering e aree sicure
 
-- Il testo nasce prima dell'illustrazione definitiva e occupa zone segnate nello
-  storyboard con `SAFE_*`.
-- Nessun balloon sopra volto, lenti, mani, arma, oggetto scambiato, ferita,
-  portello o landmark che orienta lo spazio.
-- Massimo due balloon per personaggio nella stessa vignetta; se il botta e
-  risposta non entra, si aggiunge una vignetta.
-- Target: testo e balloon sotto il 20% dell'area di ogni vignetta; le scene con
-  dialogo serrato usano una fascia nera progettata prima dell'arte.
-- Balloon piccoli, con coda chiara; didascalie rettangolari. Vietati grandi box
-  flottanti senza indicazione del parlante.
+- Arte e lettering sono due livelli separati. Ogni vignetta parlata riserva una
+  fascia scura sopra l'immagine; il testo non viene mai sovrapposto all'arte.
+- Ogni riquadro mostra il nome del parlante e usa un colore stabile per voce.
+  Pensieri, narrazione e voce fuori campo hanno etichette proprie.
+- Volti, lenti, mani, armi, oggetti scambiati, ferite, portelli e landmark sono
+  sempre completamente visibili.
+- Se il botta e risposta non entra con un corpo leggibile, si riscrive, si amplia
+  la fascia oppure si aggiunge una vignetta.
+- Gli effetti sonori sono gli unici elementi ammessi sull'immagine: restano sul
+  margine e non possono coprire un punto focale.
 - Ordine di lettura occidentale, dall'alto a sinistra verso il basso a destra.
-- Il disegno deve lasciare parete, cielo, ombra o folla sfocata per il testo. La
-  “zona vuota” è parte dell'inquadratura, non spazio trovato dopo.
 
 ### Tavola 14 — aree protette
 
@@ -369,7 +370,7 @@ domanda di Molly serve a verificare questo stato e Case deve rispondere.
 - Ratz con protesi sul braccio sinistro o con due braccia meccaniche.
 - Linda glamour, pin-up o con outfit diverso tra Jarre e ricordo immediato.
 - Joeboy confusi con Molly nella falsa pista sulla “figura magra in nero”.
-- Balloon che coprono informazione visiva o dialoghi che lasciano una domanda
+- Lettering che copre informazione visiva o dialoghi che lasciano una domanda
   operativa senza risposta.
 - Calchi inglesi che un italiano non pronuncerebbe spontaneamente.
 - Tecnologia immacolata, neon puliti, strade vuote, pseudo-giapponese leggibile.
@@ -381,7 +382,7 @@ Una tavola passa alla versione finita soltanto se:
 1. personaggi, outfit, oggetti e danni coincidono con gli ID;
 2. la pianta dell'ambiente e l'asse di ripresa sono dichiarati;
 3. ogni battuta è stata verificata per intenzione, voce e naturalezza italiana;
-4. le aree testo sono vuote prima del lettering;
+4. ogni fascia di lettering precede la propria immagine e identifica il parlante;
 5. una prova in scala pagina rende leggibili testo e azione senza sovrapposizioni;
 6. il confronto affiancato con la tavola precedente non mostra salti di scala,
    lato, luce o posizione.

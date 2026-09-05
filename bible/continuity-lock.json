@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "authority": "bible/ch01-production-bible.md",
   "source": {
     "file": "Neuromancer - William Gibson(1).pdf",
@@ -12,9 +12,12 @@
     "color": true,
     "reading_direction": "western",
     "lettering_in_generated_art": false,
+    "lettering_mode": "dedicated rail before each associated image",
+    "speaker_labels": true,
+    "text_over_art": false,
     "max_words_per_balloon": 28,
     "target_words_per_balloon": [4, 12],
-    "max_lettering_area_ratio": 0.2
+    "max_lettering_area_ratio": 0.48
   },
   "style_lock": {
     "medium": "inked graphic novel with controlled painterly color",
@@ -85,7 +88,11 @@
       "terminal": "left wall when looking toward far end",
       "rules_panel": "right wall when looking toward far end",
       "floor": "continuous brown temper-foam bed slab",
-      "camera_axis": "hatch center to far-end center"
+      "camera_axis": "hatch center to far-end center",
+      "master_asset": "assets/environments/capsule-92-scene-master-v2.png",
+      "latch_derivative": "assets/environments/capsule-92-latch-v3.png",
+      "empty_room_derivative": "assets/environments/capsule-92-case-alone-v3.png",
+      "phone_derivative": "assets/environments/capsule-92-phone-v3.png"
     }
   },
   "state_transitions": {
@@ -93,17 +100,17 @@
     "PROP_PISTOL_V1": {"acquired_page": 11, "unloaded_page": 13, "returned_to_shin_page": 13, "present_page_14": false},
     "PROP_FLASK_V1": {"introduced_page": 11, "given_to_wage_page": 13},
     "PROP_HITACHI_V1": {"introduced_page": 11, "stolen_before_page": 14},
-    "PROP_FLETCHER_V1": {"aimed_panels": ["14.1", "14.2", "14.3"], "holstered_panel": "14.4"},
-    "PROP_BLADES_V1": {"extended_panel": "14.5", "blade_count": 10}
+    "PROP_FLETCHER_V1": {"aimed_panels": ["14.1", "14.2", "14.3", "14.4"], "holstered_panel": "14.5"},
+    "PROP_BLADES_V1": {"extended_panel": "14.6", "blade_count": 10}
   },
   "page_14_blocking": {
     "case_position_m_from_hatch": [0.0, 0.75],
     "molly_position_m_from_hatch": 2.65,
-    "molly_pose_locked_panels": ["14.1", "14.2", "14.3"],
-    "source_for_first_three_panels": "same master shot or crops",
+    "molly_pose_locked_panels": ["14.1", "14.2", "14.3", "14.4"],
+    "source_for_sequence": "one master shot plus axis-locked derivatives",
     "cross_camera_axis": false,
     "protected_features": ["faces", "mirrored lenses", "hands", "weapons", "hatch", "terminal"]
   },
   "page_count": 14,
-  "finished_sample_pages": [1, 10, 14]
+  "finished_pages": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 }

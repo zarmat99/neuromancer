@@ -1,7 +1,9 @@
-# Capitolo 1 - storyboard editoriale — v1.0
+# Capitolo 1 - storyboard editoriale — v2.0
 
 Lo storyboard definisce ritmo e geometria. Le lettere indicano le vignette in
-ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
+ordine di lettura occidentale, da sinistra a destra e dall'alto in basso. Nella
+versione finita ogni blocco testuale precede la propria immagine in una fascia
+separata.
 
 ## Tavola 1 - Il colore di un canale morto
 
@@ -26,13 +28,13 @@ ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
 
 ## Tavola 3 - Night City
 
-- **Layout:** A panoramica; B-C; D-E-F.
+- **Layout:** A-B in alto; C-D al centro; E-F-G tre inserti; H in basso.
 - **A:** Case piccolo sotto le insegne di Ninsei.
 - **B:** capsule impilate vicino al porto.
-- **C:** mano con pillola rosa e espresso.
+- **C:** mano con pillola rosa ed espresso.
 - **D:** specchi rossi del Jarre.
-- **E:** dettagli iperfocalizzati del tavolo graffiato.
-- **F:** Linda compare moltiplicata negli specchi.
+- **E-F-G:** dettagli iperfocalizzati di occhio, mano e tavolo graffiato.
+- **H:** Linda compare moltiplicata negli specchi.
 - **Ritmo:** accelerazione sensoriale, apparizione quieta.
 
 ## Tavola 4 - Linda
@@ -47,12 +49,13 @@ ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
 
 ## Tavola 5 - Cinquanta
 
-- **Layout:** cinque vignette regolari, ultima larga.
+- **Layout:** A larga; B-C; D-E a sinistra con F verticale a destra.
 - **A:** Case finge indifferenza.
 - **B:** Linda piegata dal tremore.
 - **C:** banconota passata sotto il tavolo.
 - **D:** mano di Linda chiude la tasca.
-- **E:** Case fuori dalla porta; occhi di Linda riflessi nel reticolo rosso.
+- **E:** Case fuori dalla porta.
+- **F:** occhi di Linda riflessi nel reticolo rosso.
 
 ## Tavola 6 - Stelle di cromo
 
@@ -84,13 +87,14 @@ ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
 
 ## Tavola 9 - La trappola
 
-- **Layout:** sei pannelli progressivamente più stretti.
+- **Layout:** A-B; C-D; E-F; G larga in chiusura.
 - **A:** esplosione olografica nell'arcade.
 - **B:** Case sale le scale.
 - **C:** ordina alla receptionist di chiamare la sicurezza.
 - **D:** sfonda la prima porta.
 - **E:** forza il cubicolo adiacente e rompe la finestra.
-- **F:** buio, cobra esteso, punta che pulsa.
+- **F:** stanza vuota oltre la porta-esca.
+- **G:** buio, cobra esteso, punta che pulsa.
 
 ## Tavola 10 - Paura reale
 
@@ -113,39 +117,40 @@ ordine di lettura occidentale, da sinistra a destra e dall'alto in basso.
 
 ## Tavola 12 - Wage
 
-- **Layout:** A-B-C; D grande; E stretta finale.
+- **Layout:** A-B; C-D-E inserti; F grande; G larga finale.
 - **A:** chiamata a Hong Kong senza risposta.
 - **B:** Snake Man interrompe la chiamata.
-- **C:** Case guarda la pistola.
-- **D:** Chat quasi vuoto; Ratz al tavolo e Kurt sul bancone.
-- **E:** Wage e i due Joeboy riempiono la porta.
+- **C-D-E:** fiasca, pistola e portello scandiscono l'uscita dalla capsula.
+- **F:** Chat quasi vuoto; Ratz al tavolo e Kurt sul bancone.
+- **G:** Wage e i due Joeboy riempiono la porta.
 
 ## Tavola 13 - Debito
 
-- **Layout:** A grande; B-C-D; E-F.
-- **A:** .22 puntata, Ratz afferra l'arma.
-- **B:** caricatore sul tavolo.
-- **C:** Wage nega, sincera irritazione.
-- **D:** fiasca sparisce nella giacca di Wage.
-- **E:** alba grigio-rosa su Ninsei; inserto successivo della .22 restituita a
-  Shin con le cartucce. Case esce disarmato.
-- **F:** custode del Cheap Hotel conferma la visita di Linda.
+- **Layout:** A-B larghe; C-D; E-F; G-H; I larga finale.
+- **A:** stallo tra Ratz, Wage e Case.
+- **B:** .22 puntata, Ratz afferra l'arma.
+- **C:** caricatore sul tavolo.
+- **D:** Wage nega, sincera irritazione.
+- **E-F:** fiasca ceduta e debito chiuso.
+- **G-H:** alba grigio-rosa; .22 e cartucce restituite a Shin.
+- **I:** custode del Cheap Hotel conferma la visita di Linda.
 
 ## Tavola 14 - Molly
 
 - **Pianta:** `LOC_COFFIN_92_V2`, 3,00 × 1,00 × 1,45 m. Asse unico dal portello
   alla testata di fondo.
-- **Layout:** sei fasce orizzontali A-F. A-D sono ritagli dello stesso master;
-  ogni vignetta dispone di una fascia nera superiore per il lettering.
+- **Layout:** A panoramica; B-C affiancate; D panoramica; E-F verticali
+  affiancate. Ogni vignetta dispone di una fascia scura superiore per il
+  lettering.
 - **A:** Case apre la 92; Molly è seduta sulla testata di fondo e punta la
-  fletcher. `SAFE_A` sulla parete alta.
+  fletcher. La fascia A contiene il dialogo senza sottrarre parete all'arte.
 - **B:** ritaglio su Case che chiude il fermo; Molly resta immobile alla stessa
-  distanza. `SAFE_B` nel gutter superiore.
-- **C:** terzo ritaglio dello stesso master; Molly segnala il furto e Case
+  distanza. B usa il derivato bloccato `capsule-92-latch-v3.png`.
+- **C:** ritaglio assiale del master; Molly segnala il furto e Case
   chiarisce che la .22 è tornata a Shin.
 - **D:** quarto ritaglio dello stesso master; Molly resta al fondo e tiene la
   fletcher puntata durante il chiarimento su Linda e Wage.
 - **E:** stesso ambiente e stessa testata; Molly abbassa e ripone la fletcher.
 - **F:** entrambe le mani aperte, dieci lame fuori; lenti e bocca libere. Le
-  battute stanno nella fascia nera sopra il ritratto, non sull'arte.
+  battute stanno nella fascia sopra il ritratto, non sull'arte.
 - **Ritmo:** mira, verifica dell'arma, errore di Case, proposta, rivelazione.

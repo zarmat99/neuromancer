@@ -1,13 +1,13 @@
 # NEUROMANTE - Capitolo 1
 
-Sceneggiatura tecnica italiana - versione fumetto completo 1.0
+Sceneggiatura tecnica italiana - versione fumetto completo 2.0
 Formato: 14 tavole, lettura occidentale.
 Fonte: pagine PDF 3-29.
 
 Le indicazioni `LOCK` rimandano agli ID della Bibbia di produzione del capitolo
 1. Il testo fra virgolette è lettering definitivo; le descrizioni non vanno
-stampate. Ogni balloon contiene una sola intenzione e deve stare in un'area
-sicura prevista prima del disegno.
+stampate. Ogni battuta contiene una sola intenzione ed è collocata nella fascia
+editoriale che precede la relativa immagine, mai sopra l'arte.
 
 ---
 
@@ -30,7 +30,7 @@ strisce di baia nera. Ninsei brucia in basso, lontana, come un circuito bagnato.
 Case si infila tra marinai, trafficanti e corpi innestati. È alto ma chiuso nelle
 spalle; la giacca kaki è umida. Non guarda nessuno abbastanza a lungo.
 
-- VOCE FUORI CAMPO: «Io non mi drogo. È il mio corpo che soffre di una grave carenza di stupefacenti.»
+- VOCE FUORI CAMPO: «Non mi sto facendo. È il corpo che va in crisi senza roba.»
 - RISATA FUORI CAMPO: «HA!»
 
 ### 1.3 - Dettaglio
@@ -53,18 +53,17 @@ La pinza rosa sporca aziona lo spillatore e riempie un boccale di Kirin. Schiuma
 e condensa; il motore della protesi vibra.
 
 - SFX: «ZZZT-KLIK»
-- RATZ (fuori campo): «L'artista dei traffici un po' sporchi.»
+- RATZ (fuori campo): «Il virtuoso dell'affare storto.»
 
 ### 1.6 - Two-shot al bancone
 
 Ratz spinge la birra verso Case. Case la prende senza sedersi del tutto. Sullo
 sfondo, una folla compressa e sfocata.
 
-- CASE: «Qui qualcuno deve pur far ridere. Di certo non tu.»
-- RATZ: «Wage è passato presto. Aveva con sé due Joeboy.»
-- RATZ: «Affari con te?»
+- CASE: «Qualcuno deve pur far ridere. Tu non ci riesci.»
+- RATZ: «Wage è passato con due Joeboy. Cercava te?»
 
-**VOLTA:** il nome di Wage resta isolato nell'ultimo balloon.
+**VOLTA:** il nome di Wage resta il perno dell'ultimo riquadro.
 
 ---
 
@@ -84,9 +83,9 @@ Beve. Lo sguardo è piatto, ma le dita stringono troppo il vetro.
 
 Ratz pulisce il bancone con la mano umana. Il sorriso scompare.
 
-- RATZ: «Ieri ho visto Linda Lee. Con lei ridevi di più.»
-- RATZ: «Continua così e finirai in una vasca clinica. A pezzi.»
-- CASE: «Non ho una ragazza. Mi spezzi il cuore, Ratz.»
+- RATZ: «Ho visto Linda. Con lei ridevi.»
+- RATZ: «Continua così e finirai in una vasca, venduto a pezzi.»
+- CASE: «Mi commuovi, Ratz.»
 
 ### 2.3 - Vignetta orizzontale, ricordo della matrice
 
@@ -94,24 +93,23 @@ Un Case più giovane è solo una sagoma nervosa collegata a una console. Davanti
 lui si apre una griglia infinita di logica cobalto, torri di dati magenta e luce
 bianca. Gutter nero.
 
-- DIDASCALIA: «A ventidue anni Case era tra i migliori cowboy dello Sprawl.»
-- DIDASCALIA: «Nella matrice la coscienza correva libera. Il corpo restava indietro.»
+- DIDASCALIA: «A ventidue anni Case era uno dei migliori cowboy dello Sprawl.
+  Nella matrice, la coscienza correva libera.»
 
 ### 2.4 - Memphis, frammento traumatico
 
 Case legato a un letto anonimo; monitor e tubi fuori fuoco. La visione della
 matrice si spezza in filamenti che gli escono dagli occhi e dalle dita.
 
-- DIDASCALIA: «Poi rubò ai suoi datori di lavoro.»
-- DIDASCALIA: «Non lo uccisero. Gli avvelenarono il sistema nervoso.»
+- DIDASCALIA: «Poi rubò ai suoi datori di lavoro. Non lo uccisero: gli bruciarono
+  il sistema nervoso.»
 
 ### 2.5 - Capsula presente
 
 Case rannicchiato nel buio di un letto-capsula, dita conficcate nella schiuma,
 una console assente davanti a lui. Il volto è sveglio e umido.
 
-- DIDASCALIA: «La matrice sparì. Rimase la carne.»
-- DIDASCALIA: «E il suo corpo diventò una cella.»
+- DIDASCALIA: «La matrice sparì. Rimase la carne: il corpo diventò una cella.»
 
 ---
 
@@ -125,14 +123,15 @@ una console assente davanti a lui. Il volto è sveglio e umido.
 Case esce dal Chat e si perde nella folla. Pubblicità olografiche, cliniche,
 venditori di yakitori e innesti sotto la pioggia calda.
 
-- DIDASCALIA: «Un anno a Chiba. Tutto speso in cliniche che dicevano no.»
+- DIDASCALIA: «Un anno a Chiba. Tutto speso in cliniche che continuavano a
+  dirgli di no.»
 
 ### 3.2 - Insert porto/capsule
 
 File di capsule economiche sotto i fari del porto; gabbiani sopra blocchi di
 polistirolo nella baia nera.
 
-- DIDASCALIA: «Ora dormiva vicino al porto e rivendeva merce altrui.»
+- DIDASCALIA: «Ora viveva vicino al porto e rivendeva merce altrui.»
 
 ### 3.3 - Dettaglio al Jarre
 
@@ -145,8 +144,8 @@ Pillola ottagonale rosa nel palmo di Case; espresso doppio accanto. La ingoia.
 Specchi rettangolari, cornici rosso neon, tavoli consumati. Case solo a un tavolo
 come dentro una gabbia moltiplicata.
 
-- DIDASCALIA: «Night City pretendeva movimento.»
-- DIDASCALIA: «Fermarsi era sparire. Correre troppo, farsi notare.»
+- DIDASCALIA: «A Night City dovevi muoverti. Fermarti significava sparire;
+  correre troppo, farti notare.»
 
 ### 3.5 - Iperdettaglio percettivo
 
@@ -174,8 +173,8 @@ senza maniche, fascia di seta tra i capelli.
 Linda davanti a una console. Ologrammi attraversano il suo volto: zigomi rossi,
 fronte azzurra, bocca dorata. Case la vede per la prima volta dalla folla.
 
-- DIDASCALIA: «L'aveva vista lì, una notte di pioggia.»
-- DIDASCALIA: «In mezzo al rumore, quel volto era diventato un segnale.»
+- DIDASCALIA: «L'aveva vista in quell'arcade, una notte di pioggia. In mezzo al
+  rumore, il suo volto era diventato un segnale.»
 
 ### 4.2 - Harajuku
 
@@ -193,15 +192,14 @@ Due profili addormentati nello spazio stretto; intimità fragile, nessuna nudit�
 La stessa mano di Linda ora trema mentre avvicina una sigaretta alle labbra. Gli
 occhi seguono qualcosa fuori campo con bisogno assoluto.
 
-- DIDASCALIA: «Poi il bisogno aveva iniziato a portarsela via.»
+- DIDASCALIA: «Poi il bisogno aveva cominciato a portarsela via.»
 
 ### 4.5 - Ritorno al Jarre
 
 Linda offre una sigaretta; Case controlla istintivamente le sue braccia nude.
 
-- LINDA: «Vuoi una sigaretta?»
-- LINDA: «Riesci a dormire?»
-- CASE: «Non quando mi ricordo di prendere le pillole.»
+- LINDA: «Fumi? Dormi almeno?»
+- CASE: «Solo quando dimentico le pillole.»
 
 ### 4.6 - Close-up Linda
 
@@ -209,7 +207,7 @@ Trucco sbavato, sudore, una sottile falce bianca sotto le pupille.
 
 - LINDA: «Wage vuole farti fuori.»
 - CASE: «Chi te l'ha detto?»
-- LINDA: «Mona. Sta con uno dei suoi.»
+- LINDA: «Mona. Il suo tipo lavora per lui.»
 
 ---
 
@@ -221,15 +219,14 @@ Trucco sbavato, sudore, una sottile falce bianca sotto le pupille.
 
 Case si appoggia indietro, affettando noia. Linda resta curva in avanti.
 
-- CASE: «Non gli devo abbastanza. Se mi ammazza, perde i soldi.»
-- LINDA: «Troppi gli devono soldi.»
-- LINDA: «Potresti servire da esempio.»
+- CASE: «Se mi ammazza, perde i suoi soldi.»
+- LINDA: «Ne ha troppi in giro. Potrebbe scegliere te come esempio.»
 
 ### 5.2 - Linda
 
 Un brivido le attraversa le spalle. Cerca di fermarlo stringendo i gomiti.
 
-- CASE: «Hai dove dormire?»
+- CASE: «Hai un posto per dormire?»
 - LINDA: «Certo.»
 
 ### 5.3 - Sotto il tavolo
@@ -238,14 +235,14 @@ Case liscia una banconota da cinquanta, la piega e gliela porge. Le dita quasi s
 toccano.
 
 - CASE: «Tieni.»
-- LINDA: «Servono più a te. Dalli a Wage.»
-- CASE: «Gli devo molto di più. Prendili.»
+- LINDA: «Servono a te. Paga Wage.»
+- CASE: «Gli devo molto più di così. Prendili.»
 
 ### 5.4 - Dettaglio tasca
 
 La mano di Linda chiude la cerniera sulla banconota. Un attimo di esitazione.
 
-- LINDA: «Quando incassi, vai da Wage. Subito.»
+- LINDA: «Appena incassi, vai da Wage.»
 
 ### 5.5 - Esterno porta
 
@@ -253,7 +250,7 @@ Case fuori dal Jarre, già inghiottito da Ninsei. Attraverso la plastica e gli
 specchi, gli occhi di Linda restano intrappolati nel reticolo rosso.
 
 - CASE (piccolo): «Ci vediamo, Linda.»
-- LINDA (piccolo, da dentro): «Sicuro. Guardati le spalle.»
+- LINDA (piccolo, da dentro): «Certo. Guardati le spalle.»
 
 ---
 
@@ -266,8 +263,8 @@ specchi, gli occhi di Linda restano intrappolati nel reticolo rosso.
 La folla si trasforma, nella percezione di Case, in vettori e nodi: marinai,
 turisti, trafficanti, innesti e merci collegati da linee sottili.
 
-- DIDASCALIA: «Compratore. Venditore. Intermediario.»
-- DIDASCALIA: «Il trucco era convincerli che avessero bisogno di te.»
+- DIDASCALIA: «Compratore, venditore, intermediario. Il trucco era rendersi
+  indispensabile.»
 
 ### 6.2 - Dettaglio corporativo
 
@@ -286,14 +283,14 @@ frammentato nei riflessi.
 Case aspetta tra mobili anacronistici e moduli da spedizione. L'orologio molle ha
 lancette olografiche ma nessuna ora credibile.
 
-- DEANE (interfono): «Sei pulito, ragazzo mio. Entra.»
+- DEANE (interfono): «Pulito. Entra, ragazzo mio.»
 
 ### 6.5 - Ufficio
 
 Deane, liscio e rosa dietro l'enorme scrivania. Offre una caramella allo zenzero.
 
-- CASE: «Ho sentito che Wage vuole ammazzarmi.»
-- DEANE: «E chi l'avrebbe detto?»
+- CASE: «Dicono che Wage voglia ammazzarmi.»
+- DEANE: «Davvero? Chi lo dice?»
 - CASE: «Amici.»
 
 ### 6.6 - Porta che si chiude
@@ -301,8 +298,8 @@ Deane, liscio e rosa dietro l'enorme scrivania. Offre una caramella allo zenzero
 Case esce; Deane sistema il nodo perfetto della cravatta mentre i bulloni
 magnetici scorrono.
 
-- DEANE: «Non che io sappia.»
-- DEANE: «Ma non è sempre facile capire chi sia davvero tuo amico.»
+- DEANE: «Non che io sappia. Però non è sempre facile capire chi ti è davvero
+  amico.»
 - SFX: «THUNK»
 
 ---
@@ -316,8 +313,8 @@ magnetici scorrono.
 Case finge di osservare un lembo di pelle coltivata in vasca, tatuato da un
 display luminoso. Nel vetro controlla la strada alle sue spalle.
 
-- DIDASCALIA: «Un po' di paranoia poteva tenerti vivo.»
-- DIDASCALIA: «Purché restasse al guinzaglio.»
+- DIDASCALIA: «Un po' di paranoia poteva tenerti vivo. Purché restasse al
+  guinzaglio.»
 
 ### 7.2 - Riflesso
 
@@ -334,18 +331,18 @@ Case parte basso tra i corpi. La sagoma sparisce dal vetro.
 
 Shin mostra un taser; Case lo rifiuta con impazienza.
 
-- CASE: «Mi affitti una pistola?»
-- SHIN: «Due ore. Prima posso darti solo un taser.»
-- CASE: «No. Voglio qualcosa che spari.»
+- CASE: «Mi serve una pistola.»
+- SHIN: «Tra due ore. Adesso ho solo un taser.»
+- CASE: «No. Mi serve qualcosa che spari.»
 
 ### 7.5 - Negozio di coltelli, dominante
 
 Una vecchia mano apre il cobra: tubo, tre segmenti a molla, punta piramidale di
 bronzo. Case lo osserva scattare in asse verso il lettore.
 
-- CASE: «Voglio un'arma. Niente coltelli.»
+- CASE: «Un'arma. Niente coltelli.»
 - VENDITRICE: «Cobra.»
-- SFX: «KLAK-KLAK-KLAK»
+- SFX: «KLAK-KLAK»
 
 ---
 
@@ -370,10 +367,9 @@ pupille enormi.
 
 Zone nota il rigonfiamento sotto la giacca.
 
-- CASE: «Wage era con una donna? Capelli scuri, giacca nera?»
-- ZONE: «No. Due uomini grossi e innestati.»
-- ZONE: «È un cobra?»
-- ZONE: «Vuoi fare a pezzi qualcuno?»
+- CASE: «Era con una donna? Capelli scuri, giacca nera?»
+- ZONE: «No. Due grossi, pieni d'innesti. Quello è un cobra? Vuoi spaccare
+  qualcuno?»
 
 ### 8.4 - Riflesso instabile
 
@@ -387,9 +383,9 @@ lui. Argento senza occhi.
 Case attraversa Ninsei tra marinai sparsi. Linee di dati si sovrappongono alla
 folla; la strada diventa una matrice degradata.
 
-- DIDASCALIA: «Troppo dex. Troppi guai.»
-- DIDASCALIA: «Per un istante Ninsei tornò a essere una corsa nella matrice.»
-- CASE (pensiero): «Avanti. Seguimi.»
+- DIDASCALIA: «Troppo dex, troppi guai. Per un istante Ninsei tornò a essere una
+  corsa nella matrice.»
+- CASE (pensiero): «Forza. Seguimi.»
 
 ---
 
@@ -432,9 +428,9 @@ plastica della finestra si spezza al terzo colpo.
 Porta chiusa. Case contro la parete, cobra completamente esteso. La punta di
 bronzo oscilla al ritmo del polso. Fuori campo, l'allarme.
 
-- SFX: «WAA-OOO / WAA-OOO»
-- DIDASCALIA: «La porta sbagliata era aperta. Quella giusta, chiusa.»
-- DIDASCALIA: «Adesso doveva aspettare.»
+- SFX: «WAA-OOO»
+- DIDASCALIA: «La porta sbagliata era aperta. Quella giusta, chiusa. Ora doveva
+  aspettare.»
 
 ---
 
@@ -449,15 +445,13 @@ Stivali neri attraversano il corridoio oltre la fessura sotto la porta. Passano,
 si fermano per tre battiti, tornano indietro senza fretta.
 
 - SFX: «TOK ... TOK ...»
-- SFX PICCOLO: «scrrr»
 
 ### 10.2 - Occhio e sudore
 
 Primo piano estremo di Case. L'euforia chimica è sparita; un riflesso bianco
 dell'allarme gli attraversa la pupilla.
 
-- DIDASCALIA: «La paranoia da dex era sparita.»
-- DIDASCALIA: «Questa era paura animale.»
+- DIDASCALIA: «La paranoia da dex era sparita. Questa era paura animale.»
 
 ### 10.3 - Mano
 
@@ -479,7 +473,7 @@ Atterra sul cartone fradicio accanto a fibre ottiche e console rotta. Il dolore
 sale dalla caviglia sinistra; il cobra è ancora stretto nella destra.
 
 - SFX: «THUD»
-- CASE: «Ngh--»
+- CASE: «Ngh...»
 
 ### 10.6 - Finestra alta
 
@@ -538,17 +532,16 @@ Case ascolta cinque squilli senza risposta. Il terminale lo illumina dal basso.
 Case chiama Tokyo. Split panel: il profilo indistinto di Snake Man dall'altro
 lato.
 
-- CASE: «Ho la merce che volevi.»
-- SNAKE MAN: «Sono a corto di contanti. Puoi farmi credito?»
-- CASE: «Mi servono quei soldi.»
+- CASE: «Ho la merce.»
+- SNAKE MAN: «Ottimo. Ma sono a corto. Mi fai credito?»
+- CASE: «No. Mi servono i soldi adesso.»
 
 ### 12.2 - Linea morta
 
 Ricevitore rosa. Snake Man ha chiuso. Case guarda la pistola sulla ghiacciaia.
 
 - SFX: «TUUU--»
-- CASE: «Stronzo.»
-- CASE: «Stasera si mette male.»
+- CASE (pensiero): «Stronzo. Serata perfetta.»
 
 ### 12.3 - Transizione
 
@@ -560,17 +553,16 @@ Prima dell'alba. Ratz beve acqua a un tavolo; Kurt siede sul bancone con un gros
 fucile antisommossa vicino.
 
 - RATZ: «Hai una faccia orribile, artista.»
-- CASE: «Sto benissimo. Mai stato meglio.»
-- RATZ: «Alcol e stimolanti: una bella corazza.»
-- RATZ: «Contro la paura. Contro la solitudine.»
-- CASE: «Lasciami stare. Hai visto Wage?»
+- CASE: «Sto da dio.»
+- RATZ: «Alcol e stimolanti: un'armatura contro paura e solitudine.»
+- CASE: «Risparmiami la predica. Hai visto Wage?»
 
 ### 12.5 - Entrata di Wage
 
 Wage occupa il centro della porta, impeccabile. I due Joeboy innestati lo
 fiancheggiano. Ratz guarda oltre la spalla di Case.
 
-- RATZ: «Credo che tu stia per vederlo.»
+- RATZ: «Sta entrando.»
 
 ---
 
@@ -584,16 +576,15 @@ Wage; caviglia sinistra dolorante.
 Wage entra con i Joeboy. Ratz schiaccia nel pugno il pesante posacenere di
 plastica; Kurt copre i tre dal bancone.
 
-- RATZ: «Niente guai, qui. Chiaro?»
-- WAGE: «Vogliamo solo parlare.»
+- RATZ: «Qui non si ammazza nessuno.»
+- WAGE: «Vogliamo parlare.»
 
 ### 13.2 - La .22
 
 Case punta la .22 all'inguine di Wage. La pinza rosa di Ratz afferra la canna.
 
-- CASE: «Ho sentito che vuoi farmi fuori.»
-- WAGE: «Ma che cazzo ti prende?»
-- RATZ: «Non nel mio locale.»
+- CASE: «Mi hanno detto che vuoi farmi fuori.»
+- WAGE: «Che cazzo dici?»
 
 ### 13.3 - Dettaglio tavolo
 
@@ -605,8 +596,7 @@ Ratz estrae caricatore e colpo in canna. Cadono tra cenere e plastica spezzata.
 
 Gli occhi verde mare sono più irritati che minacciosi.
 
-- WAGE: «Chi te l'ha detto?»
-- WAGE: «Qualcuno ti sta usando, Case.»
+- WAGE: «Chi te l'ha detto? Ti stanno usando.»
 - CASE (pensiero): «Linda.»
 
 ### 13.5 - Scambio
@@ -614,9 +604,8 @@ Gli occhi verde mare sono più irritati che minacciosi.
 Case consegna la fiasca. Wage la fa sparire sotto il bavero di seta canna di
 fucile.
 
-- CASE: «È tutto quello che ho. Estratto ipofisario.»
-- CASE: «Vale cinquecento, se lo vendi in fretta.»
-- WAGE: «Così siamo pari. Ma fai schifo, Case. Vai a dormire.»
+- CASE: «È tutto. Estratto ipofisario: cinquecento, se fai presto.»
+- WAGE: «Siamo pari. Ora vai a dormire.»
 
 ### 13.6 - Alba su Ninsei / restituzione
 
@@ -625,17 +614,16 @@ il neon si spegne e il cielo diventa rosa sporco. In un inserto successivo, al
 banco di Shin, restituisce la .22 scarica e posa le cartucce accanto. Esce senza
 armi.
 
-- DIDASCALIA: «La minaccia era falsa.»
-- CASE (pensiero): «Linda, invece, se n'era andata con tutto.»
+- DIDASCALIA: «La minaccia era falsa. Linda, invece, era sparita col resto.»
 - SHIN: «Le cartucce? Metà prezzo.»
-- CASE: «Prendile.»
+- CASE: «Tieni.»
 
 ### 13.7 - Banco del Cheap Hotel
 
 Case traccia una linea sulla fronte per descrivere la fascia di Linda. Il ragazzo
 alla console sorride e annuisce.
 
-- CASE: «È salita una ragazza? Capelli scuri. Una fascia di seta qui.»
+- CASE: «È salita una ragazza? Capelli scuri, fascia di seta.»
 - CUSTODE: «Aveva la tua chiave.»
 
 ---
@@ -643,11 +631,13 @@ alla console sorride e annuisce.
 ## TAVOLA 14 - MOLLY
 
 **Palette:** fluorescente freddo, nero opaco, argento, borgogna.  
-**LOCK:** `CHAR_CASE_V1`, `CHAR_MOLLY_V1`, `LOC_CHEAP_V1`, `PROP_FLETCHER_V1`.
+**LOCK:** `CHAR_CASE_V1`, `CHAR_MOLLY_V1`, `LOC_COFFIN_92_V2`,
+`PROP_FLETCHER_V1`.
 
 **GEOMETRIA:** `LOC_COFFIN_92_V2`. Molly resta sulla testata di fondo nelle
-vignette 14.1-14.3; Case resta entro 0,75 m dal portello. Tutti i campi derivano
-dallo stesso master shot e non oltrepassano l'asse longitudinale.
+vignette 14.1-14.4; Case resta entro 0,75 m dal portello. Tutti i campi derivano
+dal master e dai suoi derivati controllati, senza oltrepassare l'asse
+longitudinale.
 
 ### 14.1 - Master shot, portello → fondo
 
@@ -655,9 +645,8 @@ Case apre lentamente il portello. Il vano dell'Hitachi è vuoto. A tre metri da
 lui Molly siede contro la testata curva, ginocchia alzate, polsi appoggiati sopra
 le ginocchia e fletcher puntata. Parete alta libera per il lettering.
 
-- MOLLY: «Chiudi piano.»
-- MOLLY: «Hai ancora la pistola che hai preso da Shin?»
-- CASE: «Eri tu, all'arcade?»
+- MOLLY: «Chiudi piano. Hai ancora la pistola di Shin?»
+- CASE: «Eri tu all'arcade?»
 
 ### 14.2 - Stesso asse, ritaglio su Case e fermo
 
@@ -665,14 +654,14 @@ Case chiude il portello e aziona il fermo. Resta accovacciato all'ingresso; Moll
 è ancora al fondo, nella stessa posa e alla stessa distanza.
 
 - CASE: «Dov'è Linda?»
-- MOLLY: «Prima blocca il portello.»
+- MOLLY: «Prima chiudi il fermo.»
 
 ### 14.3 - Stesso master, ritaglio più stretto
 
 Case appoggia la schiena al portello. Molly non avanza e non abbassa ancora la
 mira. Il terminale resta tra loro sulla parete sinistra.
 
-- MOLLY: «È scappata col tuo Hitachi. E la pistola?»
+- MOLLY: «È scappata col tuo Hitachi. La pistola?»
 - CASE: «Restituita. Vuoi i soldi?»
 - MOLLY: «No.»
 
@@ -680,9 +669,9 @@ mira. Il terminale resta tra loro sulla parete sinistra.
 
 Molly non abbassa ancora la fletcher. Case resta contro il portello.
 
-- MOLLY: «Che ti è preso all'arcade?»
+- MOLLY: «Perché quel casino all'arcade?»
 - CASE: «Linda ha detto che volevi uccidermi.»
-- MOLLY: «Prima di salire qui non l'avevo mai vista.»
+- MOLLY: «Non l'avevo mai vista.»
 - CASE: «Allora non sei con Wage.»
 
 ### 14.5 - Molly ripone la fletcher
@@ -691,10 +680,8 @@ Le lenti argento emergono direttamente dalla pelle; Case vi appare piccolo e
 deformato. Molly scuote la testa, poi abbassa la fletcher senza cambiare posto.
 
 - CASE: «Che cosa vuoi?»
-- MOLLY: «Te. Mi chiamo Molly.»
-- MOLLY: «L'uomo per cui lavoro vuole parlarti.»
-- MOLLY: «Nessuno vuole farti del male.»
-- CASE: «Bene.»
+- MOLLY: «Portarti dal mio capo. Mi chiamo Molly. Vuole solo parlare.»
+- CASE: «Che premura.»
 
 ### 14.6 - Rivelazione dominante
 
@@ -702,10 +689,9 @@ Molly apre entrambe le mani, palmi verso l'alto. Con un clic, dieci lame sottili
 escono sotto le unghie borgogna. Il sorriso è minimo; Case resta riflesso nelle
 lenti. Il dialogo occupa la fascia nera sopra il ritratto, non mani o volto.
 
-- MOLLY: «Io, però, qualche volta faccio male alla gente. Sono fatta così.»
-- MOLLY: «Se la metto via, resti tranquillo?»
-- CASE: «Tranquillissimo.»
-- MOLLY: «Bene. Perché se provi qualcosa, te ne pentirai.»
+- MOLLY: «La pistola è via. Adesso te ne stai buono?»
+- CASE: «Un agnellino.»
+- MOLLY: «Perfetto. Perché a volte faccio male alla gente.»
 - SFX: «SNIK»
 
 **CHIUSURA:** nero pieno sotto la punta delle lame. Nessuna anticipazione del

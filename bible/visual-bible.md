@@ -1,4 +1,4 @@
-# Bibbia visiva sintetica - v1.0
+# Bibbia visiva sintetica - v2.0
 
 La Bibbia completa e autoritativa del capitolo 1 è
 `bible/ch01-production-bible.md`. Questo file resta come scheda rapida dei lock
@@ -18,7 +18,8 @@ sterile o genericamente futuristica.
 - Abbondanza: 3 mm.
 - 5-7 vignette per tavola; una vignetta dominante quando il ritmo lo richiede.
 - Gutter bianco sporco nella realtà fisica; nero nel ricordo della matrice.
-- Lettering aggiunto dopo l'illustrazione, mai generato dentro l'immagine.
+- Lettering aggiunto dopo l'illustrazione in fasce scure dedicate, mai generato
+  dentro l'immagine e mai sovrapposto all'arte.
 
 ### Palette
 
@@ -147,6 +148,11 @@ terminale e telefono modellati nella parete sinistra, regole sulla destra, luce
 fluorescente fredda, nessuna finestra. Pianta vincolante:
 `assets/environments/capsule-92-layout-v2.svg`.
 
+Master e derivati vincolanti: `capsule-92-scene-master-v2.png`,
+`capsule-92-latch-v3.png`, `capsule-92-case-alone-v3.png` e
+`capsule-92-phone-v3.png`. Condividono portello, terminale, pannello delle
+regole, schiuma, luce, scala e asse longitudinale.
+
 ## Oggetti bloccati
 
 | ID | Aspetto | Continuità |
@@ -168,7 +174,7 @@ fluorescente fredda, nessuna finestra. Pianta vincolante:
 - Capsula 92 grande come una stanza.
 - Molly che cambia posizione nelle prime quattro vignette della tavola 14.
 - Case ancora armato quando entra nella capsula alla tavola 14.
-- Balloon su volti, lenti, mani, armi, portelli o oggetti scambiati.
+- Qualunque testo su volti, lenti, mani, armi, portelli o oggetti scambiati.
 - Neon puliti, città vuota o tecnologia immacolata.
 - Testo pseudo-giapponese leggibile come elemento narrativo.
 - Armi aggiuntive o oggetti che anticipano capitoli successivi.

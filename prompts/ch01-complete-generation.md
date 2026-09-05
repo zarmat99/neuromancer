@@ -1,7 +1,7 @@
 # Set di generazione finale — Capitolo 1
 
-Versione 1.0. Le illustrazioni sono state generate senza testo; il lettering è
-stato applicato separatamente da `scripts/build_ch01_complete.py`.
+Versione 2.0. Le illustrazioni sono state generate senza testo; il lettering è
+stato ricomposto in fasce dedicate da `scripts/build_ch01_revision.py`.
 
 ## Prompt base bloccato
 
@@ -21,9 +21,11 @@ stato applicato separatamente da `scripts/build_ch01_complete.py`.
 | 6-9 | Deane, coda, Shin, cobra, arcade | cast secondario, `deane-v1`, `shin-v1`, `cobra-v1` |
 | 10 | fuga e caduta nel vicolo | `case-v1`, ambiente arcade |
 | 11-13 | .22, Cheap Hotel, Wage e resa dei conti | `wage-v1`, `ratz-v1`, cast climax, capsula 92 |
-| 14 | incontro con Molly e lame | master fisso `capsule-92-scene-master-v2`, holster e ritratto lame |
+| 14 | incontro con Molly e lame | master fisso `capsule-92-scene-master-v2`, derivato `capsule-92-latch-v3`, holster e ritratto lame |
 
 La tavola 9 ha ricevuto un pass mirato per sostituire una testa di serpente con
 la corretta punta piramidale del cobra. La tavola 12 ha ricevuto un pass mirato
-per rimuovere la pistola duplicata. La tavola 14 non cambia stanza fra vignette:
-le prime quattro immagini sono ritagli deterministici dello stesso master.
+per rimuovere la pistola duplicata. Le tavole 11 e 14 condividono ora la stessa
+capsula: `case-alone-v3`, `phone-v3` e `latch-v3` mantengono portello, terminale,
+pannello delle regole, schiuma, scala, luce e asse del master. Nessuna battuta è
+incorporata o sovrapposta alle immagini.

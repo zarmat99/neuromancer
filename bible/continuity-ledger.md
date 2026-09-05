@@ -1,4 +1,4 @@
-# Registro di continuità - Capitolo 1 — v1.0
+# Registro di continuità - Capitolo 1 — v2.0
 
 Questo documento prevale sui prompt e sulle singole tavole. Gli elementi sono
 definiti in `bible/ch01-production-bible.md`; ogni revisione che modifica un
@@ -52,8 +52,12 @@ La storia occupa una sola notte di venerdì fino all'alba di sabato.
 - Case resta presso il portello, entro 0,75 m dalla testata vicina.
 - Molly resta seduta contro la testata di fondo nelle vignette 14.1-14.3.
 - Terminale a sinistra e pannello regole a destra guardando verso Molly.
-- Le prime quattro vignette della tavola 14 sono ritagli dello stesso master shot;
-  non cambiano scala, asse, distanza o lato dei personaggi.
+- Le inquadrature della tavola 14 discendono dallo stesso master spaziale. Il
+  dettaglio del fermo usa un derivato controllato con identici portello,
+  terminale, pannello, schiuma, asse e distanza tra i personaggi.
+- Gli asset bloccati sono `capsule-92-scene-master-v2.png`,
+  `capsule-92-latch-v3.png`, `capsule-92-case-alone-v3.png` e
+  `capsule-92-phone-v3.png`.
 - La fletcher resta puntata fino alla 14.4 e viene riposta nella 14.5, prima
   delle lame.
 
@@ -76,7 +80,7 @@ La storia occupa una sola notte di venerdì fino all'alba di sabato.
 - [ ] Ferite, sudore, dose di dex e zoppia corretti.
 - [ ] Direzione dello sguardo e asse d'azione leggibili.
 - [ ] Pianta e scala dell'ambiente coerenti con la vignetta precedente.
-- [ ] Aree `SAFE_*` libere da volti, mani, armi e landmark.
+- [ ] Fascia di lettering separata dall'arte; volti, mani, armi e landmark liberi.
 - [ ] Ogni domanda operativa ha una risposta o una reazione chiara.
 - [ ] Nessun testo generato nell'illustrazione.
 - [ ] Nessun elemento di capitoli successivi.

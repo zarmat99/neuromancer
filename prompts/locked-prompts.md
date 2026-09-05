@@ -107,7 +107,7 @@ windbreaker and cobra, no .22 pistol; Molly appears only as head/silhouette in
 final panel; no text or balloons
 ```
 
-## Tavola campione 14 — metodo v0.2
+## Tavola 14 — metodo bloccato v2.0
 
 ```text
 Do not generate the finished page as one image. First create one spatial master
@@ -116,16 +116,17 @@ assets/environments/capsule-92-layout-v2.svg.
 
 LOC_COFFIN_92_V2 is exactly 3.00 m long, 1.00 m maximum width and 1.45 m maximum
 height. Case remains within 0.75 m of the near hatch. Molly remains seated against
-the far end at x=2.65 m in panels 14.1-14.3. Terminal is on the left wall looking
+the far end at x=2.65 m in panels 14.1-14.4. Terminal is on the left wall looking
 in; rules panel on the right; brown foam spans the floor. Never cross the
 longitudinal axis.
 
-Panels 14.1-14.3 must be crops of the same master shot, not independent
-generations. Generate only the later holstering beat separately, using the master
-as reference. Composite the page deterministically and reserve dedicated black
-lettering bands before adding Italian balloons.
+Panels 14.1-14.4 must use the same master geometry. Crops come directly from the
+master; action inserts such as the latch are controlled derivatives that preserve
+all landmarks, scale, distance, light and camera axis. Generate only the later
+holstering beat separately, using the master as reference. Composite the page
+deterministically with a dedicated lettering rail above each associated image.
 
 Constraints: surgically inset lenses without arms and no visible eyes; exactly
 one fletcher until it is holstered; Case has no weapon; ten blades only in the
-final panel; no text or balloons inside generated art.
+final panel; no text, balloons or labels inside generated art.
 ```

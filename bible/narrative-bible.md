@@ -1,4 +1,4 @@
-# Bibbia narrativa sintetica - v1.0
+# Bibbia narrativa sintetica - v2.0
 
 Per cast completo, ambienti, geometrie, oggetti, voce e lettering del capitolo 1
 fa fede `bible/ch01-production-bible.md`.
@@ -90,8 +90,9 @@ ha finalmente un progetto per lui".
 - Dialoghi asciutti, urbani, senza imitare meccanicamente la sintassi inglese.
 - Turpiloquio presente quando definisce tensione o classe sociale, mai aggiunto
   come decorazione.
-- Nessun monologo esplicativo più lungo di due balloon.
-- Massimo 16 parole per balloon; obiettivo 4-12.
+- Nessun monologo esplicativo più lungo di due riquadri consecutivi.
+- Obiettivo 4-12 parole per riquadro; oltre 16 si riscrive o si amplia la fascia.
+- Il lettering precede l'immagine in una fascia dedicata e non invade mai l'arte.
 - Si traduce l'intenzione, non la sintassi della frase inglese.
 - Una domanda operativa riceve risposta o reazione nella stessa sequenza.
 - Balloon e didascalie occupano aree sicure stabilite prima dell'illustrazione.

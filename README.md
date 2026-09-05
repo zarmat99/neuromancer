@@ -5,7 +5,7 @@ Questo repository contiene la lavorazione dell'adattamento italiano a fumetti di
 
 ## Capitolo 1 completo
 
-La versione 1.0 adatta il capitolo 1 (pagine PDF 3-29) in 14 tavole finite. Il
+La versione 2.0 adatta il capitolo 1 (pagine PDF 3-29) in 14 tavole finite. Il
 pacchetto comprende:
 
 - Bibbia incrementale completa del capitolo 1: cast visibile, voci, luoghi,
@@ -15,7 +15,9 @@ pacchetto comprende:
 - registro di continuità pagina per pagina;
 - scaletta, sceneggiatura tecnica e storyboard;
 - quattordici tavole illustrate e letterate in italiano;
-- tavola 14 ricostruita in sei vignette dallo stesso master spaziale;
+- tavola 14 ricostruita da un master spaziale unico e derivati controllati;
+- lettering ricomposto in fasce editoriali separate dall'arte, con parlante
+  identificato e nessuna sovrapposizione su volti, mani, armi o azioni;
 - PDF solo-fumetto con copertina e 14 tavole:
   `editions/neuromante-capitolo-01-completo.pdf`.
 
@@ -37,8 +39,9 @@ Le tavole possono cambiare regia e illuminazione, ma non possono ridisegnare:
 
 Prima di approvare una tavola vanno verificati
 `bible/ch01-production-bible.md` e `bible/continuity-ledger.md`. Le immagini
-vengono prodotte senza testo incorporato; balloon, didascalie ed effetti sonori
-sono aggiunti in aree sicure già previste nello storyboard.
+vengono prodotte senza testo incorporato. Dialoghi, pensieri e didascalie sono
+collocati in fasce dedicate sopra la relativa immagine; gli effetti sonori sono
+gli unici elementi ammessi sull'arte e restano ai margini dell'azione.
 
 I dialoghi vengono riscritti per intenzione e sottotesto in italiano naturale,
 non tradotti seguendo la sintassi inglese. Il pass è documentato in

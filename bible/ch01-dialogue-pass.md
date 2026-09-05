@@ -1,6 +1,6 @@
 # Pass dialoghi italiani — Capitolo 1
 
-Versione 1.0. Questo documento registra l'intenzione e il sottotesto del
+Versione 2.0. Questo documento registra l'intenzione e il sottotesto del
 lettering definitivo in `chapters/ch01/script.md`. Serve a impedire che revisioni
 successive tornino a una traduzione letterale.
 
@@ -19,14 +19,14 @@ vengono ricreati in italiano.
 
 ## Trappole eliminate
 
-| Tipo | Effetto indesiderato | Soluzione v1.0 |
+| Tipo | Effetto indesiderato | Soluzione v2.0 |
 |---|---|---|
 | calco sintattico | battute corrette ma “doppiate” | soggetto implicito, verbi diretti, meno subordinate |
 | slang parola per parola | personaggi americani che parlano un italiano finto | relazione e tono al posto di “man/buddy/sweetheart” |
 | metafora importata | immagini comprensibili ma non spontanee | equivalente italiano con la stessa funzione |
-| esposizione compressa | una risposta contiene tre informazioni scollegate | un'intenzione per balloon |
+| esposizione compressa | una risposta contiene tre informazioni scollegate | un'intenzione per riquadro |
 | domanda sospesa | la scena sembra tagliata o illogica | risposta o reazione nello stesso blocco |
-| balloon sovraccarico | il testo invade volto e azione | 4-12 parole come obiettivo, massimo 16 |
+| testo sovraccarico | il lettering invade volto e azione | riquadri nella fascia dedicata, mai sull'arte |
 
 ## Voce per voce
 
@@ -58,7 +58,7 @@ propria colpa. La dipendenza spezza l'attenzione, non la grammatica.
 
 - Registro: comune e diretto.
 - Evita diminutivi o seduzione caricata.
-- «Servono più a te. Dalli a Wage.» rende leggibile che tenta quasi di rifiutare
+- «Servono a te. Paga Wage.» rende leggibile che tenta quasi di rifiutare
   il denaro prima del furto.
 
 ### Ratz
@@ -68,7 +68,7 @@ frase più ampia, ma non deve sembrare una traduzione antiquata.
 
 - Registro: ironico, adulto, con “artista” come soprannome stabile.
 - Il suo lessico riguarda mestiere, corpo, denaro e locale.
-- Quando interviene nello scontro diventa minimo: «Non nel mio locale.»
+- Quando interviene nello scontro diventa netto: «Qui non si ammazza nessuno.»
 
 ### Wage
 
@@ -129,13 +129,24 @@ Lo scambio deve essere comprensibile anche senza didascalie:
 9. Solo allora abbassa e ripone la fletcher.
 10. Le lame danno peso fisico all'ultimo avvertimento.
 
+## Sistema di lettering 2.0
+
+- Ogni vignetta parlata è divisa in due zone: fascia di lettura e immagine.
+- La fascia precede verticalmente l'azione cui si riferisce; non galleggia sopra
+  l'illustrazione e non usa code che possano indicare il personaggio sbagliato.
+- Ogni riquadro porta il nome del parlante e un colore stabile per voce.
+- Didascalie, pensieri e voci fuori campo hanno etichette distinte.
+- Gli effetti sonori possono entrare nell'immagine soltanto sul margine e non
+  possono coprire volto, mani, armi, ferite o landmark.
+- Se un testo non entra con corpo leggibile, si riscrive o si amplia la fascia:
+  non si riduce il carattere fino a farlo diventare una nota.
+
 ## Controllo prima del lettering
 
 - Leggere ogni pagina senza descrizioni di scena: causa ed effetto restano chiari?
 - Leggere soltanto le battute di un personaggio: la voce rimane riconoscibile?
 - Pronunciare le frasi a velocità normale: richiedono un secondo respiro?
 - Eliminare ciò che il disegno comunica già.
-- Oltre 16 parole, usare una fascia dedicata oppure riscrivere; mai invadere il
-  punto focale dell'immagine.
-- Se una battuta richiede di coprire un volto, una mano o un'arma, cambiare la
-  regia prima di ridurre il corpo del testo.
+- Oltre 16 parole, dividere per intenzione oppure riscrivere.
+- Se una battuta richiederebbe di coprire un volto, una mano o un'arma, ampliare
+  la fascia o cambiare la regia; l'arte resta sempre intatta.

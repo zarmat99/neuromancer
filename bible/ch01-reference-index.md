@@ -1,6 +1,6 @@
 # Indice delle reference visive — Capitolo 1
 
-Versione 1.0. L'ordine indicato qui sostituisce etichette generate dentro le
+Versione 2.0. L'ordine indicato qui sostituisce etichette generate dentro le
 immagini, che non vengono mai affidate al modello visivo.
 
 ## Personaggi
@@ -25,6 +25,9 @@ immagini, che non vengono mai affidate al modello visivo.
 | `assets/environments/ch01-locations-flashbacks-v2.png` | riga 2 | Harajuku-pachinko / boutique chirurgica / esterno Cheap Hotel |
 | `assets/environments/capsule-92-layout-v2.svg` | pianta + sezione | geometria dimensionale vincolante del numero 92 |
 | `assets/environments/capsule-92-scene-master-v2.png` | master unico | Case al portello e Molly sulla testata di fondo |
+| `assets/environments/capsule-92-case-alone-v3.png` | derivato bloccato | capsula prima dell'arrivo di Molly; Case e inventario |
+| `assets/environments/capsule-92-phone-v3.png` | derivato bloccato | stessa capsula; Case al telefono rosa |
+| `assets/environments/capsule-92-latch-v3.png` | derivato bloccato | stessa capsula; Case chiude il fermo, Molly resta al fondo |
 | `assets/environments/capsule-92-holster-v2.png` | continuazione | Molly non si sposta e ripone la fletcher |
 
 ## Gerarchia delle fonti
